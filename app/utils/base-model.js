@@ -52,6 +52,7 @@ module.exports = class BaseModel {
     return item
   }
 
+
   update(id, obj) {
     if (typeof id === 'string') id = parseInt(id, 10)
     const prevObjIndex = this.items.findIndex((item) => item.id === id)
