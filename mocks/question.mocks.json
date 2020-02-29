@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Quelle est la capitale de l'Espagne ?",
+    "answers": [
+      "Madrid",
+      "Barcelone",
+      "Marbella"
+    ],
+    "quizId": "1583014477437",
+    "id": 1583014548336
+  },
+  {
+    "label": "Quelle est la capitale du Brésil ?",
+    "answers": [
+      "Saõ Paulo",
+      "Rio de Janeiro",
+      "Brasilia"
+    ],
+    "quizId": "1583014477437",
+    "id": 1583014556822
+  },
+  {
+    "label": "Dans quelle série n'a pas joué l'acteur Bryan Cranston ?",
+    "answers": [
+      "Breaking Bad",
+      "Game of Thrones",
+      "Malcom"
+    ],
+    "quizId": "1583014566035",
+    "id": 1583014581736
+  },
+  {
+    "label": "Laquelle de ces plateformes de streaming est la plus récente ?",
+    "answers": [
+      "Netflix",
+      "OCS",
+      "AppleTv+"
+    ],
+    "quizId": "1583014566035",
+    "id": 1583014590795
+  },
+  {
+    "label": "Dans quel quartier de New York se déroule la série Friends ?",
+    "answers": [
+      "Brooklyn",
+      "Manhattan",
+      "Bronx"
+    ],
+    "quizId": "1583014566035",
+    "id": 1583014597605
+  },
+  {
+    "label": "Quelle est la capitale de la Turquie ?",
+    "answers": [
+      "Istanbul",
+      "Ankara",
+      "Izmir"
+    ],
+    "quizId": "1583014477437",
+    "id": 1583014687753
+  }
+]
